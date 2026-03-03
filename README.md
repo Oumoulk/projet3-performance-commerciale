@@ -98,7 +98,7 @@ La combinaison :
 
 ## 📁 Structure du projet
 projet3_performance_commerciale/
-│
+
 ├── data/ → Dataset
 
 ├── notebooks/ → Analyse complète en Python
