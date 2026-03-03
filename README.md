@@ -100,8 +100,11 @@ La combinaison :
 projet3_performance_commerciale/
 │
 ├── data/ → Dataset
+
 ├── notebooks/ → Analyse complète en Python
+
 ├── images/ → Visualisations exportées
+
 └── README.md
 
 ---
