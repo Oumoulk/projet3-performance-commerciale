@@ -44,7 +44,7 @@ La matrice de corrélation met en évidence :
 - **Discount ↔ Profit : -0.22 (impact négatif)**
 - **Discount ↔ Quantity : ~0 (aucun effet volume significatif)**
 
-![Correlation Matrix](images/correlation_matrix.png)
+![Correlation Matrix](image/correlation_matrix.png)
 
 ---
 
@@ -69,7 +69,7 @@ En région Central :
 - Remise moyenne sur Furniture ≈ **30%**
 - Soit près du double des autres régions
 
-![Discount Region Category](images/discount_region_category.png)
+![Discount Region Category](image/discount_region_category.png)
 
 ---
 
