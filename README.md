@@ -32,7 +32,7 @@ L’analyse montre une corrélation négative entre Discount et Profit :
 - **Corr(Discount, Profit) = -0.22**
 - Les remises ont un impact négatif sur la rentabilité
 
-![Discount vs Profit](images/discount_vs_profit.png)
+![Discount vs Profit](../images/discount_vs_profit.png)
 
 ---
 
@@ -97,3 +97,19 @@ La combinaison :
 ---
 
 ## 📁 Structure du projet
+projet3_performance_commerciale/
+│
+├── data/ → Dataset
+├── notebooks/ → Analyse complète en Python
+├── images/ → Visualisations exportées
+└── README.md
+
+---
+
+## 🧰 Outils utilisés
+
+- Python
+- Pandas
+- Seaborn
+- Matplotlib
+- Analyse statistique (corrélations)
