@@ -32,7 +32,7 @@ L’analyse montre une corrélation négative entre Discount et Profit :
 - **Corr(Discount, Profit) = -0.22**
 - Les remises ont un impact négatif sur la rentabilité
 
-![Discount vs Profit](../images/discount_vs_profit.png)
+![Discount vs Profit](image/discount_vs_profit.png)
 
 ---
 
